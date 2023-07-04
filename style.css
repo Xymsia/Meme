@@ -1,0 +1,34 @@
+
+#Yazi {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+}
+
+#Resim {
+    border: 5px;
+    width: 900px;
+    height: 700px;
+    margin-left: 500px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    
+}
+
+body {
+     background-color: black;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: double;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: auto;
+    
+}
